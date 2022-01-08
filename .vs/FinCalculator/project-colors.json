@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "76ea5829-70d0-4f32-9cf3-f7f6367f3849": {
+      "ProjectGuid": "76ea5829-70d0-4f32-9cf3-f7f6367f3849",
+      "DisplayName": "FinCalculator",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

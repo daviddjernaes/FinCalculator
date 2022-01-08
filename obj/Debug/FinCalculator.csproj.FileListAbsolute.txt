@@ -1,0 +1,11 @@
+C:\Users\ddjer\source\repos\cSharpEx\tutorial\FinCalculator\bin\Debug\FinCalculator.exe.config
+C:\Users\ddjer\source\repos\cSharpEx\tutorial\FinCalculator\bin\Debug\FinCalculator.exe
+C:\Users\ddjer\source\repos\cSharpEx\tutorial\FinCalculator\bin\Debug\FinCalculator.pdb
+C:\Users\ddjer\source\repos\cSharpEx\tutorial\FinCalculator\obj\Debug\FinCalculator.csproj.AssemblyReference.cache
+C:\Users\ddjer\source\repos\cSharpEx\tutorial\FinCalculator\obj\Debug\FinCalculator.csproj.SuggestedBindingRedirects.cache
+C:\Users\ddjer\source\repos\cSharpEx\tutorial\FinCalculator\obj\Debug\FinCalculator.Properties.Resources.resources
+C:\Users\ddjer\source\repos\cSharpEx\tutorial\FinCalculator\obj\Debug\FinCalculator.csproj.GenerateResource.cache
+C:\Users\ddjer\source\repos\cSharpEx\tutorial\FinCalculator\obj\Debug\FinCalculator.csproj.CoreCompileInputs.cache
+C:\Users\ddjer\source\repos\cSharpEx\tutorial\FinCalculator\obj\Debug\FinCalculator.exe
+C:\Users\ddjer\source\repos\cSharpEx\tutorial\FinCalculator\obj\Debug\FinCalculator.pdb
+C:\Users\ddjer\source\repos\cSharpEx\tutorial\FinCalculator\obj\Debug\FinCalculator.FinCalc.resources
