@@ -271,25 +271,25 @@
             // label5
             // 
             this.label5.AutoSize = true;
-            this.label5.Location = new System.Drawing.Point(64, 143);
+            this.label5.Location = new System.Drawing.Point(42, 143);
             this.label5.Name = "label5";
-            this.label5.Size = new System.Drawing.Size(116, 16);
+            this.label5.Size = new System.Drawing.Size(165, 16);
             this.label5.TabIndex = 19;
-            this.label5.Text = "PMT (payment - $)";
+            this.label5.Text = "PMT (monthly payment - $)";
             // 
             // label6
             // 
             this.label6.AutoSize = true;
-            this.label6.Location = new System.Drawing.Point(59, 19);
+            this.label6.Location = new System.Drawing.Point(45, 19);
             this.label6.Name = "label6";
-            this.label6.Size = new System.Drawing.Size(116, 16);
+            this.label6.Size = new System.Drawing.Size(150, 16);
             this.label6.TabIndex = 18;
-            this.label6.Text = "N (num of periods)";
+            this.label6.Text = "N (num of periods in yrs)";
             // 
             // label7
             // 
             this.label7.AutoSize = true;
-            this.label7.Location = new System.Drawing.Point(59, 62);
+            this.label7.Location = new System.Drawing.Point(44, 62);
             this.label7.Name = "label7";
             this.label7.Size = new System.Drawing.Size(125, 16);
             this.label7.TabIndex = 17;
@@ -298,11 +298,11 @@
             // label8
             // 
             this.label8.AutoSize = true;
-            this.label8.Location = new System.Drawing.Point(59, 103);
+            this.label8.Location = new System.Drawing.Point(42, 103);
             this.label8.Name = "label8";
-            this.label8.Size = new System.Drawing.Size(175, 20);
+            this.label8.Size = new System.Drawing.Size(169, 16);
             this.label8.TabIndex = 16;
-            this.label8.Text = "PV (principal value - $)";
+            this.label8.Text = "PV (principal loan value - $)";
             // 
             // button1
             // 
